@@ -1,3 +1,4 @@
+name             'jscoverage'
 maintainer       "Chris Blackburn"
 maintainer_email "christopher.blackburn@gmail.com"
 license          "Apache 2.0"
